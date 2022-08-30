@@ -4,7 +4,7 @@
 
 ## About
 
-<img align="left" width="200px" src="https://user-images.githubusercontent.com/78067505/180959156-b639849c-252b-4e03-b021-08b900cf5bb1.png" />
+<img align="left" width="200px" src="https://user-images.githubusercontent.com/78067505/187560370-bd52c1ac-4bc9-429f-af06-147982e23d6f.png" />
 
 DearDiary returns Congressional legislators by state and showcases helpful information regarding the legislators and their top monetary contributors. Utilizes the Advice Slip JSON API, their concept is "follow the money". StateMyRep intends to help U.S. voters understand who backs who and promotes more informed votes regarding organizations and their money moves. This helps the average American by shedding light on corporate motives in political backing.
 
