@@ -4,3 +4,21 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
+
+.advice-title {
+  display: flex;
+  justify-content: center;
+  color: rgb(19, 176, 239);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.advice-button {
+  text-align: center;
+}
+
+.advice-message {
+  display: flex;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+}

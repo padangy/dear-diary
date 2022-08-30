@@ -5,6 +5,7 @@ import { useDispatch } from 'react-redux';
 import { getPosts } from './actions/posts'
 import Posts from './components/Posts/Posts'
 import Form from './components/Form/Form'
+import RandomAdvice from './components/RandomAdvice/RandomAdvice'
 import diarylogo from './images/diarylogo.png';
 import deardiarylogo from './images/deardiarylogo.png';
 import heartlogo from './images/heartlogo.png';
@@ -35,6 +36,9 @@ const App = () => {
         <img className={classes.images} src={diarylogo} alt="diary-logo" height="60" />&nbsp;&nbsp;&nbsp;
         <img className={classes.images} src={heartlogo} alt="heart-logo" height="60" />&nbsp;&nbsp;&nbsp;
         <img className={classes.images} src={deardiarylogo} alt="deardiary-logo" height="60" />        
+      </AppBar>
+      <AppBar className={classes.appBar} position="static" color="inherit" align="center">  
+        <RandomAdvice />             
       </AppBar>
       <Grow in>
         <Container>
