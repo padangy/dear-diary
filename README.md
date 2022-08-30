@@ -1,4 +1,4 @@
-:memo: DearDiary:sparker::sparkles:
+:memo: DearDiary :sparker::sparkles:
 
 ## Welcome to DearDiary Project -- For your thoughts and expression!
 
