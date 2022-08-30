@@ -1,6 +1,6 @@
-## :memo::scroll: DearDiary:sparkler::sparkles:
+# :memo::scroll: DearDiary:sparkler::sparkles:
 
-## Welcome to DearDiary Project -- For your thoughts and expression!
+## Welcome to the DearDiary Project -- For your thoughts and expression!
 
 ## About
 
