@@ -36,7 +36,7 @@ Advice Slip JSON API: https://api.adviceslip.com/
 <br>
 -At least one model with full CRUD.
 <br>
--Include at least one of the following features: Pull from a third party API - either client side with AJAX or server-side with an NPM
+-Include at least one of the following features: Pull from a third party API - Advice Slip JSON API
 <br>
 -Use a CSS framework: Material UI
 <br>
