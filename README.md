@@ -7,7 +7,7 @@
 <img align="left" width="200px" src="https://user-images.githubusercontent.com/78067505/187560370-bd52c1ac-4bc9-429f-af06-147982e23d6f.png" />
 
 DearDiary is a personal app that is a platform to capture your personality in posts. Like a polaroid that you can fill with a picture, text, or both, you can fill individual postcards to showcase beautiful events, memories, and even just thoughts in your day-to-day life.
-Website link: https://dear-diary-project.netlify.app/
+Website link, hosted on Netlify: https://dear-diary-project.netlify.app/
 
 <br>
 <br>
@@ -31,11 +31,19 @@ Mobile:
 ![componenthierarchy](https://user-images.githubusercontent.com/78067505/187568864-4d96e6d9-b69d-4143-9823-ef58614070e2.PNG)
 <br>
 <br>
+## Feature List
+Features of DearDiary include:
+
+-CRUD Operations: Create, Edit, Update, Delete posts
+-Advice generation sourced from 3rd party API
+-Ability to upload photos to posts
+
+![adviceslipAPI](https://user-images.githubusercontent.com/78067505/187559546-fbc6bdc7-b29c-4584-b89a-c3998b6114e1.PNG)
+<br>
+<br>
 ## API
 
 Advice Slip JSON API: https://api.adviceslip.com/
-
-![adviceslipAPI](https://user-images.githubusercontent.com/78067505/187559546-fbc6bdc7-b29c-4584-b89a-c3998b6114e1.PNG)
 <br>
 <br>
 ## Minimum Viable Product (MVP):
@@ -58,4 +66,45 @@ Features to add in the future:
 <br>
 -Authentification of users
 <br>
--Like functionality to posts to show support and are tied to user profiles and authentifications
+-Like functionality on posts to show support and are tied to user profiles and authentifications
+<br>
+<br>
+## Dependencies
+Front-end:
+
+-axios
+<br>
+-material-ui/core
+<br>
+-material-ui/icons
+<br>
+-moment
+<br>
+-react
+<br>
+-react-dom
+<br>
+-react-file-base64
+<br>
+-react-redux
+<br>
+-react-scripts
+<br>
+-redux
+<br>
+-redux-thunk
+<br>
+<br>
+Back-end:
+
+-body-parser
+<br>
+-cors
+<br>
+-dotenv
+<br>
+-express
+<br>
+-mongoose
+<br>
+-nodemon
