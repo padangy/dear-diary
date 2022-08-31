@@ -47,8 +47,11 @@ Features of DearDiary include:
 <br>
 -Ability to upload photos to posts
 <br>
+-Random advice generated for you
+<br>
 <br>
 ## API
+As you muse and create your posts on DearDiary, a random advice generator accompanies your thoughts!
 
 Advice Slip JSON API: https://api.adviceslip.com/
 
