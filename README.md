@@ -45,13 +45,13 @@ Features of DearDiary include:
 -CRUD Operations: Create, Edit, Update, Delete posts
 -Advice generation sourced from 3rd party API
 -Ability to upload photos to posts
-
-![adviceslipAPI](https://user-images.githubusercontent.com/78067505/187559546-fbc6bdc7-b29c-4584-b89a-c3998b6114e1.PNG)
 <br>
 <br>
 ## API
 
 Advice Slip JSON API: https://api.adviceslip.com/
+
+![adviceslipAPI](https://user-images.githubusercontent.com/78067505/187559546-fbc6bdc7-b29c-4584-b89a-c3998b6114e1.PNG)
 <br>
 <br>
 ## Minimum Viable Product (MVP):
