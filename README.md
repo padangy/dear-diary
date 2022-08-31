@@ -82,6 +82,8 @@ Features to add in the future:
 <br>
 -Like functionality on posts to show support and are tied to user profiles and authentifications
 <br>
+-Music and video functionality; using Youtube
+<br>
 <br>
 ## Dependencies
 Front-end:
