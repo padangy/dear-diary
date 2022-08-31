@@ -16,7 +16,7 @@ DearDiary returns Congressional legislators by state and showcases helpful infor
 
 Desktop:
 <br>
-![desktop](https://user-images.githubusercontent.com/78067505/187566721-b7bcfed7-9e61-490c-b90c-71dd6d354d7b.PNG)
+![desktop](https://user-images.githubusercontent.com/78067505/187567516-9d0146f0-9bca-4c46-a4e0-ec342a835a2c.PNG)
 <br>
 Mobile:
 <br>
