@@ -6,7 +6,7 @@
 
 <img align="left" width="200px" src="https://user-images.githubusercontent.com/78067505/187560370-bd52c1ac-4bc9-429f-af06-147982e23d6f.png" />
 
-DearDiary is a personal app that is a platform to capture your personality in posts. Like a polaroid that you can fill with a picture, text, or both, you can fill individual postcards to showcase beautiful events, memories, and even just thoughts in your day-to-day life.
+DearDiary is a beautiful personal app that is a platform to capture your personality in posts. Like a polaroid that you can fill with a picture, text, or both, you can fill individual postcards to showcase beautiful events, memories, and even just thoughts in your day-to-day life. Enjoy the esthetics of this personal page as well! :fireworks::star2::sparkling_heart:
 Website link, hosted on Netlify: https://dear-diary-project.netlify.app/
 
 <br>
