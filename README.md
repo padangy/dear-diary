@@ -31,6 +31,13 @@ Mobile:
 ![componenthierarchy](https://user-images.githubusercontent.com/78067505/187568864-4d96e6d9-b69d-4143-9823-ef58614070e2.PNG)
 <br>
 <br>
+## Project Description
+DearDiary is a digital diary that is you can use to capture snapshots of your life and mind. Just like putting pictures and writing inside a scrapbook, this app can be used with ease and can be kept with you wherever you go.
+
+Some challenges that came about include trying to utilize authentification so that the diary can be privatized by user but that is something to delve into further in the post-MVP. Another challenge came with using new libraries such as mongoose for the back-end and the most trouble came from using react-redux and material ui for the front-end.
+
+<br>
+<br>
 ## Feature List
 Features of DearDiary include:
 
