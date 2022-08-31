@@ -14,9 +14,11 @@ DearDiary returns Congressional legislators by state and showcases helpful infor
 
 ## Wireframing
 
-Figma: https://www.figma.com/file/tu97n67c4nkwcDj3GhIIy7/StateMyRep-Figma-Wireframe
+Desktop:
+![desktopview](https://user-images.githubusercontent.com/78067505/187566715-88ddab37-5287-4ef2-b398-df5b7683dbfc.PNG)
 
-![desktopview](https://user-images.githubusercontent.com/78067505/180966243-80691d95-213a-48a8-872d-5c3c2d8c0b6f.PNG)
+Mobile:
+![desktopview](https://user-images.githubusercontent.com/78067505/187566721-b7bcfed7-9e61-490c-b90c-71dd6d354d7b.PNG)
 
 ## Component Hierarchy
 
