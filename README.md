@@ -6,7 +6,9 @@
 
 <img align="left" width="200px" src="https://user-images.githubusercontent.com/78067505/187560370-bd52c1ac-4bc9-429f-af06-147982e23d6f.png" />
 
-DearDiary returns Congressional legislators by state and showcases helpful information regarding the legislators and their top monetary contributors. Utilizes the Advice Slip JSON API, their concept is "follow the money". StateMyRep intends to help U.S. voters understand who backs who and promotes more informed votes regarding organizations and their money moves. This helps the average American by shedding light on corporate motives in political backing.
+Website link: https://dear-diary-project.netlify.app/
+<br>
+DearDiary is a personal app that is a platform to capture your personality in posts. Like a polaroid that you can fill with a picture, text, or both, you can fill individual postcards to showcase beautiful events, memories, and even just thoughts in your day-to-day life.
 
 <br>
 <br>
