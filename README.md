@@ -1,6 +1,6 @@
 # :memo::scroll: DearDiary:sparkler::sparkles:
 
-## Welcome to the DearDiary Project -- For your thoughts and expression!
+## Welcome to the DearDiary Project -- For your own thoughts and expression!
 
 ## About
 
@@ -56,4 +56,6 @@ Features to add in the future:
 
 -Login page
 <br>
--References and links to ways to get involved in political activities
+-Authentification of users
+<br>
+-Like functionality to posts to show support and are tied to user profiles and authentifications
