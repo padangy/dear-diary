@@ -14,7 +14,6 @@ Website link: https://dear-diary-project.netlify.app/
 <br>
 <br>
 <br>
-<br>
 
 ## Wireframing
 
@@ -26,11 +25,21 @@ Mobile:
 <br>
 ![mobile](https://user-images.githubusercontent.com/78067505/187566715-88ddab37-5287-4ef2-b398-df5b7683dbfc.PNG)
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Component Hierarchy
 
 ![componenthierarchy](https://user-images.githubusercontent.com/78067505/187568864-4d96e6d9-b69d-4143-9823-ef58614070e2.PNG)
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## API
 
@@ -38,6 +47,11 @@ Advice Slip JSON API: https://api.adviceslip.com/
 
 ![adviceslipAPI](https://user-images.githubusercontent.com/78067505/187559546-fbc6bdc7-b29c-4584-b89a-c3998b6114e1.PNG)
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Minimum Viable Product (MVP):
 
@@ -51,6 +65,11 @@ Advice Slip JSON API: https://api.adviceslip.com/
 <br>
 -Be deployed online and accessible to the public: Backend via Heroku, Frontend via Netlify
 
+<br>
+<br>
+<br>
+<br>
+<br>
     
 ## Post MVP
 Features to add in the future:
