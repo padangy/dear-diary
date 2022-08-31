@@ -49,10 +49,8 @@ Advice Slip JSON API: https://api.adviceslip.com/
 -Use a CSS framework: Material UI
 <br>
 -Be deployed online and accessible to the public: Backend via Heroku, Frontend via Netlify
-
 <br>
 <br>
-    
 ## Post MVP
 Features to add in the future:
 
