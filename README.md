@@ -25,7 +25,7 @@ Mobile:
 
 ## Component Hierarchy
 
-![componenthierarchy](https://user-images.githubusercontent.com/78067505/180966886-bcf93952-1ebe-45df-8d0a-c703793992cd.PNG)
+![componenthierarchy](https://user-images.githubusercontent.com/78067505/187568864-4d96e6d9-b69d-4143-9823-ef58614070e2.PNG)
 
 
 ## API
