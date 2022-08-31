@@ -41,7 +41,7 @@ Some challenges that came about include trying to utilize authentification so th
 ## Feature List
 Features of DearDiary include:
 
--CRUD Operations: Create, Edit, Update, Delete posts
+-CRUD Operations: Create, Read/Edit, Update, Delete posts
 <br>
 -Advice generation sourced from 3rd party API
 <br>
