@@ -16,11 +16,12 @@ DearDiary returns Congressional legislators by state and showcases helpful infor
 
 Desktop:
 <br>
-![desktop](https://user-images.githubusercontent.com/78067505/187566715-88ddab37-5287-4ef2-b398-df5b7683dbfc.PNG)
-
+![desktop](https://user-images.githubusercontent.com/78067505/187566721-b7bcfed7-9e61-490c-b90c-71dd6d354d7b.PNG)
+<br>
 Mobile:
 <br>
-![mobile](https://user-images.githubusercontent.com/78067505/187566721-b7bcfed7-9e61-490c-b90c-71dd6d354d7b.PNG)
+![mobile](https://user-images.githubusercontent.com/78067505/187566715-88ddab37-5287-4ef2-b398-df5b7683dbfc.PNG)
+
 
 ## Component Hierarchy
 
