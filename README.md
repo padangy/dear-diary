@@ -38,7 +38,6 @@ Some challenges that came about include trying to utilize authentification so th
 
 <br>
 <br>
-
 ## Feature List
 Features of DearDiary include:
 
